@@ -1,4 +1,4 @@
-Copyright (c) 2026 willko22
+Copyright (c) 2026 Daishin
 
 All rights reserved, except as follows:
 
@@ -8,7 +8,7 @@ All rights reserved, except as follows:
 2. MODIFICATION & SHARING: Anyone may modify this software and share
    it, including publicly, for noncommercial purposes, provided that
    any such sharing:
-   - a) clearly states that the software is derived from <https://github.com/willko22/tower_defense>, the original work of willko22;
+   - a) clearly states that the software is derived from <https://github.com/da1sh1n/tower_defense>, the original work of Daishin;
    - b) clearly describes, in reasonable detail, what changes were made to the original; and
    - c) includes a copy of this license, unmodified, alongside the shared copy.
 
