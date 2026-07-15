@@ -1,4 +1,4 @@
-Copyright (c) 2026 Daishin
+# Copyright (c) 2026 Daishin
 
 All rights reserved, except as follows:
 
